@@ -1,7 +1,7 @@
 # cat --help
 ```
 Usage: cat [OPTION]... [FILE]...
-Concatenate FILE(s) to standard output.
+Concatenate FILE(s) to standard output(標準輸出).
 
 With no FILE, or when FILE is -, read standard input.
 
