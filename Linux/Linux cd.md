@@ -4,6 +4,13 @@ root@kali:~# cd ..
 root@kali:/# 
 ```
 
+```
+root@kali:/bin# cd ..
+root@kali:/# cd
+root@kali:~# 
+cd .. 回上層目錄
+cd 回根目錄
+```
 # ls
 ```
 root@kali:/# ls
