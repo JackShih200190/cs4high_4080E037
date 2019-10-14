@@ -34,9 +34,9 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
 [3]lo==loaclhost每一台電曩都會有本地端位址  127.0.0.1
 ```
 ```
-問題1.IP位址==?  
+問題1.IP位址==172.17.0.1  
 問題2.mtu 1500  最大傳輸單元Maximum Transmission Unit  https://en.wikipedia.org/wiki/Maximum_transmission_unit
-問題1.MAC address==實體網卡位址==>ether 08:00:27:2a:d5:62
+問題1.MAC address==實體網卡位址==>ether 08:00:27:b7:21:83
 問題1.
 問題1.
 問題1.lo==localhost address=?
