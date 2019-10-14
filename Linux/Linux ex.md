@@ -20,3 +20,13 @@ Enter a integer to find the square of: 12
 ```
 
 ## 3.
+```
+root@kali:~/python# gedit test3.py
+root@kali:~/python# python 3 test3.py
+python: can't open file '3': [Errno 2] No such file or directory
+root@kali:~/python# python3 test3.py
+Enter a number: 10
+Enter another number: 10
+10.0 * 10.0 = 100.0
+
+```
