@@ -1,5 +1,15 @@
 # 作業
-## 1.
+## 10-1
+```
+root@kali:~/python# gedit test4.py
+root@kali:~/python# python3 test4.py
+hello!
+89.4
+abcdef
+ant
+```
+
+## 10-2
 ```
 root@kali:~# mkdir python
 root@kali:~# cd python
@@ -9,7 +19,24 @@ root@kali:~/python# python3 test1.py
 1/2=0.5
 ```
 
-## 2.
+## 10-3
+```
+root@kali:~/python# gedit test6.py
+root@kali:~/python# python3 test6.py
+Where do you live? 
+I live in Boston. 
+```
+
+## 10-4
+```
+root@kali:~/python# gedit test7.py
+root@kali:~/python# python3 test7.py
+Where do you live? 
+!
+I hear it's nice there!
+```
+
+## 10-5
 ```
 root@kali:~/python# gedit test2.py
 root@kali:~/python# python3 test2.py
@@ -18,7 +45,7 @@ Enter a integer to find the square of: 12
 144
 ```
 
-## 3.
+## 10-6
 ```
 root@kali:~/python# gedit test3.py
 root@kali:~/python# python 3 test3.py
@@ -29,14 +56,30 @@ Enter another number: 10
 10.0 * 10.0 = 100.0
 
 ```
-## 4.
-```
-root@kali:~/python# gedit test4.py
-root@kali:~/python# python3 test4.py
-Welcome to the Mashup Game!
-Enter one full name(FIRST LAST): shih
-Enter another full name(FIRST LAST): jhih-yu
-```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 5.
 ```
 root@kali:~/python# gedit test5.py
@@ -45,22 +88,9 @@ root@kali:~/python# python3 test5.py
 1/2=0.5
 ```
 
-## 6.
-```
-root@kali:~/python# gedit test6.py
-root@kali:~/python# python3 test6.py
-Where do you live? 
-I live in Boston. 
-```
 
-## 7.
-```
-root@kali:~/python# gedit test7.py
-root@kali:~/python# python3 test7.py
-Where do you live? 
-!
-I hear it's nice there!
-```
+
+
 ## 8.
 ```
 root@kali:~/python# gedit test8.py
@@ -76,5 +106,5 @@ jhih-yu
 
 ## 9.
 ```
-222
+
 ```
