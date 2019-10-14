@@ -29,11 +29,52 @@ Enter another number: 10
 10.0 * 10.0 = 100.0
 
 ```
-##4.
+## 4.
 ```
 root@kali:~/python# gedit test4.py
 root@kali:~/python# python3 test4.py
 Welcome to the Mashup Game!
 Enter one full name(FIRST LAST): shih
 Enter another full name(FIRST LAST): jhih-yu
+```
+## 5.
+```
+root@kali:~/python# gedit test5.py
+root@kali:~/python# python3 test5.py
+1 / 2 = 0.5
+1/2=0.5
+```
+
+## 6.
+```
+root@kali:~/python# gedit test6.py
+root@kali:~/python# python3 test6.py
+Where do you live? 
+I live in Boston. 
+```
+
+## 7.
+```
+root@kali:~/python# gedit test7.py
+root@kali:~/python# python3 test7.py
+Where do you live? 
+!
+I hear it's nice there!
+```
+## 8.
+```
+root@kali:~/python# gedit test8.py
+root@kali:~/python# python3 test8.py
+Welcome to the Mashup Game!
+Enter one full name(FIRST LAST): shih
+Enter another full name(FIRST LAST): jhih-yu
+shi
+shih
+jhih-y
+jhih-yu
+```
+
+## 9.
+```
+222
 ```
