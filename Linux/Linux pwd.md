@@ -3,13 +3,6 @@
 lab@29d4cf5af0ab:~$ pwd
 /home/lab
 ```
-```
-root@kali:/bin# cd ..
-root@kali:/# cd
-root@kali:~# 
-cd .. 回上層目錄
-cd
-```
 
 ```
 root@kali:/# cd bin
