@@ -42,3 +42,18 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
 問題1.lo==localhost address=?
 
 ```
+## ip位置
+```
+inet==172.17.0.1 
+```
+## 網路遮罩
+```
+netmask==255.255.0.0
+```
+
+## 廣播
+```
+broadcast 172.17.255.255
+```
+
+## 
