@@ -3,7 +3,6 @@
 ```
 root@kali:~# mkdir python
 root@kali:~# cd python
-root@kali:~/python# wget https://www.flag.com.tw/bk/ex/f9751
 root@kali:~/python# gedit test1.py
 root@kali:~/python# python3 test1.py
 1 / 2 = 0.5
@@ -29,4 +28,12 @@ Enter a number: 10
 Enter another number: 10
 10.0 * 10.0 = 100.0
 
+```
+##4.
+```
+root@kali:~/python# gedit test4.py
+root@kali:~/python# python3 test4.py
+Welcome to the Mashup Game!
+Enter one full name(FIRST LAST): shih
+Enter another full name(FIRST LAST): jhih-yu
 ```
